@@ -1,6 +1,8 @@
 # TicTacToe-Game
 2D 4x4x4 TicTacToe Game 
 
+For play the game you can run TicTacToe/src/Main.java
+
 In one plane, classic rule : If 'X' or 'O' orders same horizontally or vertically by 4 which do that will win. 
 
 By using planes 'X' or 'O' can win with these examples (These rules are valid for every possible raw and column) : 
